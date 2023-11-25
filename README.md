@@ -1,4 +1,5 @@
 # Conjunto de Mandelbrot
+Colaboradores: [Diego Kippes](https://github.com/dkippes) y [Elias Baron](https://github.com/EliasBaron)
 ## Descripción
 ### Indicaciones para ejecutar el programa
 Para ejecutar el programa debe clonar el repositorio o ejecutar el siguiente comando en la terminal:
